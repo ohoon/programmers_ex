@@ -1,7 +1,7 @@
 /*
 2017 카카오코드 본선
-단체사진 찍기
-https://programmers.co.kr/learn/courses/30/lessons/1835
+카카오프렌즈 컬러링북
+https://programmers.co.kr/learn/courses/30/lessons/1829
 */
 
 class Solution {
