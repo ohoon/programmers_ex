@@ -1,5 +1,5 @@
 /*
-코딩테스트 연습
+2023 KAKAO BLIND RECRUITMENT
 개인정보 수집 유효기간
 https://programmers.co.kr/learn/courses/30/lessons/150370
 */
